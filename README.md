@@ -9,7 +9,7 @@
 ### Languages and tools:
 <br>
 <!-- HTML Logo -->
-[<img align="left" alt="html" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dhtml&psig=AOvVaw1vlBBb1sBRhEqd-E90mnsk&ust=1642782852039000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiF75ThwPUCFQAAAAAdAAAAABAD" />]
+[<img align="left" alt="html" width="26px" src="https://e7.pngegg.com/pngimages/840/443/png-clipart-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text.png" />]
 <!-- CSS Logo -->
 
 <!-- Bootstrap Logo -->
