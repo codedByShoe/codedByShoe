@@ -1,9 +1,9 @@
 ### Hi there, I'm Andrew  👋
 
 ## I'm a husband, Father, and developer.
-- 🔭 I’m currently working on becoming a freelancer
+- 🔭 I’m currently working on becoming a Fullstack dev.
 - 🌱 I’m currently learning laravel, vue.
-- 🥅 2022 Goals: Expand into a Fullstack developer and contribute to open source.
+- 🥅 2022 Goals: Expand into a Fullstack developer role and contribute to open source.
 - ⚡ Fun fact: I love college football. Currently working on CS degree in cyber security. 
 
 
