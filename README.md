@@ -7,8 +7,9 @@
 - ⚡ Fun fact: I love college football. Currently working on CS degree in cyber security. 
 <br>
 ### Languages and tools:
+<br>
 <!-- HTML Logo -->
-[<img src="https://aux.iconspalace.com/uploads/184016907607801444.png" alt="html5 icon">]
+[<img align="left" alt="html" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dhtml&psig=AOvVaw1vlBBb1sBRhEqd-E90mnsk&ust=1642782852039000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiF75ThwPUCFQAAAAAdAAAAABAD">]
 <!-- CSS Logo -->
 
 <!-- Bootstrap Logo -->
