@@ -37,6 +37,6 @@
 
 
 ### Let's become allies on Codewars!
-<img align="left" alt="codewars badge" src="https://www.codewars.com/users/Ashoemaker9/badges/large" />
+<a href="https://www.codewars.com/users/Ashoemaker9"><img align="left" alt="codewars badge" src="https://www.codewars.com/users/Ashoemaker9/badges/large"></a>
 
 
