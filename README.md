@@ -1,9 +1,8 @@
 ### Hi there, I'm Andrew  👋
 
 ## I'm a husband, Father, and programmer.
-- 🔭 I’m currently working on becoming a ethical hacker!
-- 🌱 I’m currently learning python and other related tools
-- 🥅 2022 Goals: finish my AAS degree in cybersecurity.
+- 🌱 I’m currently learning how to become better coder.
+- 🥅 2022 Goals: Become well established Freelancer.
 - ⚡ Fun fact: I love reseaching algorithmic trading and all things in the financial markets. 
 
 
