@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew  👋
 
-## I'm a husband, Father, and programmer.
-- 🌱 I’m currently learning how to become better coder.
+## I'm a husband, Father, and Jamstack Developer.
+- 🌱 I’m currently learning how to become a better coder.
 - 🥅 2022 Goals: Become well established Freelancer.
 - ⚡ Fun fact: I love reseaching algorithmic trading and all things in the financial markets. 
 
@@ -15,10 +15,10 @@
 
 <!-- JS Logo -->
 <img align="left" alt="js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- PHP Logo -->
-<img align="left" alt="php" width="50px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+<!-- Vue Logo -->
+<img align="left" alt="php" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <!-- Linux Logo -->
-<img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />
 <!-- Git Logo -->
 <img align="left" alt="git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <!-- Mysql -->
