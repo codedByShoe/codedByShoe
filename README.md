@@ -1,9 +1,6 @@
 ### Hi there, I'm Andrew  👋
 
-## I'm a husband, Father, and Jamstack Developer.
-- 🌱 I’m currently learning how to become a better coder.
-- 🥅 2022 Goals: Become well established Freelancer.
-- ⚡ Fun fact: I love reseaching algorithmic trading and all things in the financial markets. 
+## I'm a husband, Father, and Laravel Developer.
 
 
 <!-- Stat Tracker  -->
@@ -13,14 +10,12 @@
 
 ### Technologies and tools:
 
-<!-- JS Logo -->
-<img align="left" alt="js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<!-- Laravel Logo -->
+<img align="left" alt="laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+
 <!-- Vue Logo -->
-<img align="left" alt="php" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<!-- Linux Logo -->
-<img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png" />
-<!-- Git Logo -->
-<img align="left" alt="git" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="vue" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+
 <!-- Mysql -->
 <img alt="mysql" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
