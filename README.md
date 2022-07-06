@@ -1,15 +1,24 @@
 ### Hi there, I'm Andrew  👋
 
-## I'm a husband, Father, and Laravel Developer.
+## I'm a husband, Father, and Software Developer.
+
+I enjoy writing code. I started my journey in web development and continue to explore and learn other avenues of tech. 
 
 
-### Technologies and tools:
+### Preferred Technologies and tools:
 
-<!-- Laravel Logo -->
-<img align="left" alt="laravel" width="50px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-
-<!-- Vue Logo -->
-<img align="left" alt="vue" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<!-- HTML -->
+<img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<!-- CSS -->
+<img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<!-- Bootstrap -->
+<img align="left" alt="bootstrap" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<!-- JS -->
+<img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<!-- python -->
+<img align="left" alt="python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<!-- django -->
+<img align="left" alt="django" width="60px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" />
 
 <!-- Mysql -->
 <img alt="mysql" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
