@@ -20,7 +20,7 @@ I enjoy writing code. I started my journey in web development and continue to ex
 
 
 <!-- Mysql -->
-<img alt="mysql" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img alt="WP" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
 ### Let's become allies on Codewars!
 <a href="https://www.codewars.com/users/Ashoemaker9"><img align="left" alt="codewars badge" src="https://www.codewars.com/users/Ashoemaker9/badges/large"></a>
