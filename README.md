@@ -15,7 +15,7 @@ I enjoy writing code. I started my journey in web development and continue to ex
 <!-- Angular -->
 <img align="left" alt="angular" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <!-- dotNet -->
-<img align="left" alt="dotNet" width="60px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
+<img align="left" alt="dotNet" width="50px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 
 
 <!-- SqlServer -->
