@@ -1,27 +1,44 @@
-### Hi there, I'm Andrew  👋
+### Andrew Shoemaker  
+
+**`Digital Craftsman (Software Developer)`**
 
 ## I'm a husband, Father, and Software Developer.
 
-I enjoy writing code. I started my journey in web development and continue to explore and learn other avenues of tech. 
+I look forward to contributing to the open source community and building my version of the digital world one step at a time. I Love learning new things and building things from the ground up from planning and design all the wat to solving real world problems. How can I help solve your problems? 
+
+---
 
 
-### Preferred Technologies and tools:
+### Languages, Frameworks and tools:
 
 <!-- HTML -->
-<img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <!-- CSS -->
-<img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
+<img align="left" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<!-- TypeScript -->
+<img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<!-- csharp -->
+<img align="left" alt="csharp" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<!-- node -->
+<img align="left" alt="node" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <!-- Angular -->
-<img align="left" alt="angular" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="angular" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <!-- dotNet -->
-<img align="left" alt="dotNet" width="50px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
-
-
+<img align="left" alt="dotNet" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<!-- Bootstrap -->
+<img align="left" alt="bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<!-- Tailwind -->
+<img align="left" alt="tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <!-- SqlServer -->
-<img alt="SqlServer" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SqlServer" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<!-- Mysql -->
+<img alt="mySql" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 
 ### Let's become allies on Codewars!
-<a href="https://www.codewars.com/users/Ashoemaker9"><img align="left" alt="codewars badge" src="https://www.codewars.com/users/Ashoemaker9/badges/large"></a>
+<a href="https://www.codewars.com/users/Ashoemaker9"><img alt="codewars badge" src="https://www.codewars.com/users/Ashoemaker9/badges/large"></a>
+
+#
+
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashoemaker-tech&show_icons=true&theme=gruvbox)
 
 
