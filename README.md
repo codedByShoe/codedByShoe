@@ -4,7 +4,7 @@
 
 ## I'm a husband, Father, and Software Developer.
 
-I look forward to contributing to the open source community and building my version of the digital world one step at a time. I Love learning new things and building things from the ground up from planning and design all the wat to solving real world problems. How can I help solve your problems? 
+I look forward to contributing to the open source community and building my version of the digital world one step at a time. I Love learning new things and building things from the ground up from planning and design all the way to solving real world problems. How can I help solve your problems? 
 
 ---
 
