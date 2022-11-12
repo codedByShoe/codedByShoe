@@ -32,6 +32,8 @@ I look forward to contributing to the open source community and building my vers
 <img align="left" alt="bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <!-- Tailwind -->
 <img align="left" alt="tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<!-- Wordpress -->
+<img align="left" alt="wordpress" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <!-- Mysql -->
 <img alt="mySql" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 
