@@ -36,8 +36,5 @@ I look forward to contributing to the open source community and building my vers
 ### Let's become allies on Codewars!
 <a href="https://www.codewars.com/users/Ashoemaker9"><img alt="codewars badge" src="https://www.codewars.com/users/Ashoemaker9/badges/large"></a>
 
-#
-
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashoemaker-tech&show_icons=true&theme=gruvbox)
 
 
