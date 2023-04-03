@@ -22,8 +22,8 @@ I look forward to contributing to the open source community and building my vers
 <img align="left" alt="php" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <!-- node -->
 <img align="left" alt="node" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<!-- Vue -->
-<img align="left" alt="Vue" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+<!-- Angular -->
+<img align="left" alt="Ng" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <!-- laravel -->
 <img align="left" alt="laravel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 <!-- Bootstrap -->
