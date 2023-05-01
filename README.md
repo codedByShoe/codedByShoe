@@ -1,42 +1,36 @@
-### Andrew Shoemaker  
+```php
+<?php
 
-**`Digital Craftsman (Software Developer)`**
+namespace Andrew Shoemaker;
 
-## Laravel Tall Stack & VueJs Developer.
+class About extends Me
+{
+    public function getFeaturedProjects(Request $request): array
+    {
+        return [
+          'LaravelStorefront' => $request->LaravelLivewire,
+          'Twitter-clone' => $request->VueInertiaLaravel,
+        ];
+    }
 
-I look forward to contributing to the open source community and building my version of the digital world one step at a time. I Love learning new things and building things from the ground up from planning and design all the way to solving real world problems. How can I help solve your problems? 
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Livewire::class,
+            Vuejs::class,
+            Nuxt::class,
+            TailwindCss::class,
+            Bootstrap::class
+        ];
+    }
 
-
----
-
-
-### Languages, Frameworks and tools:
-
-<!-- HTML -->
-<img align="left" alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<!-- CSS -->
-<img align="left" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<!-- JavaScript -->
-<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<!-- php -->
-<img align="left" alt="php" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<!-- node -->
-<img align="left" alt="node" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<!-- Vue -->
-<img align="left" alt="Vue" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<!-- Nuxt -->
-<img align="left" alt="Nuxt" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-<!-- laravel -->
-<img align="left" alt="laravel" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-<!-- Bootstrap -->
-<img align="left" alt="bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<!-- Tailwind -->
-<img align="left" alt="tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<!-- Mysql -->
-<img alt="mySql" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-
-### Let's become allies on Codewars!
-<a href="https://www.codewars.com/users/Ashoemaker9"><img alt="codewars badge" src="https://www.codewars.com/users/Ashoemaker9/badges/large"></a>
-
-
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source & find my place at an amazing company.';
+    }
+}
+```
 
