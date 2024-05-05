@@ -1,31 +1,27 @@
-```php
-<?php
+```go
 
-namespace Andrew Shoemaker;
+package codedByShoe;
 
-class About extends Me
-{
+func main() {
+    LGTM()
+}
 
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Go::class,
-            Laravel::class,
-            Livewire::class,
-            Vuejs::class,
-            Htmx::class,
-            Nuxt::class,
-            TailwindCss::class,
-            Bootstrap::class
-        ];
-    }
+func LGTM() map[string]interface{} {
+        developer := struct{
+		languages []string
+		technologies []string
+		yearsExperience int
+		avaliable bool
+	}{
+		languages: []string{"Go", "Javascript", "SQL", "PHP", "Python", "CSS"},	
+		technologies: []string{"React", "TailwindCss", "Bootstrap", "HTMX", "Prisma", "InertiaJS", "Laravel"},	
+		yearsExperience: 4,
+		avaliable: true,
+	}
 
-    public function getFutureGoal(): array
-    {
-        return ['Become best HTMX CEO', 'Find the startup that I founded.'];
-    }
+	return map[string]interface{} {
+		"Andrew Shoemaker": developer,
+	}
 }
 ```
 
