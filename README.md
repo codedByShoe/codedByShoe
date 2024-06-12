@@ -14,7 +14,7 @@ func LGTM() map[string]interface{} {
 		avaliable bool
 	}{
 		languages: []string{"Go", "PHP", "Javascript", "SQL", "Python", "Lua"},	
-		technologies: []string{"Laravel", "TALL", "HTMX", "React", "TailwindCss", "Bootstrap", "InertiaJS"},	
+		technologies: []string{"Laravel", "TALL", "HTMX", "React", "InertiaJS"},	
 		yearsExperience: 4,
 		avaliable: true,
 	}
